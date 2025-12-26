@@ -73,4 +73,4 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash-sahh&show_icons=true&locale=en_
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?Yash-sahh&show_icons=true&locale=en_
